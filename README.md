@@ -44,6 +44,7 @@ Esta aplicação foi desenvolvida por Victor Cassimiro Silva Santos.
 
 Sinta-se à vontade para fornecer feedback, relatar problemas ou enviar perguntas relacionadas à aplicação.
 
+
 <h2> Conclusão </h2>
 
 A aplicação de login desenvolvida por Victor Cassimiro Silva Santos em TypeScript oferece uma maneira simples e segura para os usuários acessarem um sistema. O código-fonte da aplicação está disponível para download e personalização, permitindo que você adapte a solução às suas necessidades específicas.
