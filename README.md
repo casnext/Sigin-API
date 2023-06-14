@@ -1,4 +1,4 @@
-<h1> Aplicação de Login - README </h1>
+<h1> Aplicação de Login </h1>
 
 Esta é uma aplicação de login desenvolvida por Victor Cassimiro Silva Santos usando TypeScript. A aplicação permite que os usuários realizem o login em um sistema por meio de um formulário de autenticação.
 
